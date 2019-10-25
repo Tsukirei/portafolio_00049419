@@ -1,0 +1,90 @@
+Parte 1:
+primer arbol:
+
+Raiz:A.
+Ramas:B,D,C,E.
+Hojas:G,H,I,F.
+
+Segundo arbol:
+Raiz:A.
+Ramas:B,C,E,F,D,H.
+Hojas:I,J,G,K,L.
+
+Parte 2:
+primer arbol:
+
+Nivel  Nodo
+  0      A
+  1      BC
+  2      DEF
+  3      GHI
+
+segundo arbol:
+
+Nivel   Nodo
+ 0        A
+ 1        B
+ 2        CD
+ 3        EFGH
+ 4        IJKL
+
+Parte 3:
+primer arbol:
+
+profundidad:3
+peso:9
+orden del arbol:2
+
+segundo arbol:
+
+profundidad:4
+peso:12
+orden del arbol:2
+
+parte 4:
+
+primer arbol:
+
+            E
+
+
+H                       I
+
+segundo arbol:
+
+           H
+
+
+K                     L
+
+
+Parte 5:
+
+primer arbol:
+No es lleno.
+
+segundo arbol:
+No es lleno
+
+Parte 6:
+No es perfecto ni el arbol 1 ni el 2.
+ 
+Parte 7:
+
+primer arbol:
+Pre-orden:A,B,D,G,C,E,H,I,F.
+In-orden:D,G,B,A,H,E,I,C,F.
+Post-orden:G,D,B,H,I,E,F,C,A.
+
+segundo arbol:
+Pre-orden:A,B,C,E,I,F,J,D,G,H,K,L.
+In-orden:E,I,C,F,J,B,G,D,K,H,L,A.
+Post-orden:I,E,J,F,C,G,K,L,H,D,B,A.
+
+
+
+
+
+	 
+
+
